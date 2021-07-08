@@ -44,3 +44,4 @@ Esto podemos hacerlo de manera rapida:<br/>
 ### *-[Lore, Nacho, Maxi]-*<br/>
 ### &ensp;&ensp;&ensp;&ensp;&ensp; -[2021]-
 
+*Juego creado en grupo para la cátedra de Python, Universidad Nacional de La Plata.-*
