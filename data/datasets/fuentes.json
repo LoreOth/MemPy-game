@@ -1,0 +1,137 @@
+[
+    {
+        "X": "-58.3679712229013",
+        "Y": "-34.6251954311299",
+        "COMUNA": "1",
+        "NOMBRE": "LA LOBA",
+        "UBICACION": "PQUE. LEZAMA",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "BRASIL AV. Y PASEO COLON AV."
+    },
+    {
+        "X": "-58.3679712229013",
+        "Y": "-34.6251954311299",
+        "COMUNA": "1",
+        "NOMBRE": "LA CASCADA",
+        "UBICACION": "PQUE. LEZAMA (BRASIL Y PASEO COLON)",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "BRASIL AV. Y PASEO COLON AV."
+    },
+    {
+        "X": "-58.3679712229013",
+        "Y": "-34.6251954311299",
+        "COMUNA": "1",
+        "NOMBRE": "COORD. INTERNACIONAL",
+        "UBICACION": "PQUE. LEZAMA",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "BRASIL AV. Y PASEO COLON AV."
+    },
+    {
+        "X": "-58.3825208768477",
+        "Y": "-34.5990902742679",
+        "COMUNA": "1",
+        "NOMBRE": "ORNAMENTALES I",
+        "UBICACION": "PZA. STA. CRUZ (CORDOBA Y CERRITO)",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "CORDOBA AV. Y CERRITO"
+    },
+    {
+        "X": "-58.3812498973237",
+        "Y": "-34.5990312612813",
+        "COMUNA": "1",
+        "NOMBRE": "ORNAMENTALES II",
+        "UBICACION": "PZA. STA. CRUZ (CORDOBA Y PELLEGRINI)",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "CORDOBA AV. Y PELLEGRINI",
+        "null": [
+            " CARLOS"
+        ]
+    },
+    {
+        "X": "-58.3735040176063",
+        "Y": "-34.608513029906",
+        "COMUNA": "1",
+        "NOMBRE": "PZA. 25 DE MAYO IV",
+        "UBICACION": "LADO CABILDO",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "DE MAYO AV. Y BOLIVAR"
+    },
+    {
+        "X": "-58.3710934758963",
+        "Y": "-34.6253696526422",
+        "COMUNA": "1",
+        "NOMBRE": "LA MAGDALENA/PEDRO DE MENDOZA",
+        "UBICACION": "PQUE. LEZAMA (DEFENSA Y AV. BRASIL)",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "DEFENSA Y BRASIL AV."
+    },
+    {
+        "X": "-58.3721261689569",
+        "Y": "-34.6089296356935",
+        "COMUNA": "1",
+        "NOMBRE": "PZA. 25 DE MAYO II",
+        "UBICACION": "LADO AFIP",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "DEFENSA Y YRIGOYEN",
+        "null": [
+            " HIPOLITO AV."
+        ]
+    },
+    {
+        "X": "-58.3840939317432",
+        "Y": "-34.5980805548725",
+        "COMUNA": "1",
+        "NOMBRE": "PZA. LIBERTAD I",
+        "UBICACION": "LIBERTAD Y PARAGUAY",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "LIBERTAD Y PARAGUAY"
+    },
+    {
+        "X": "-58.3840939317432",
+        "Y": "-34.5980805548725",
+        "COMUNA": "1",
+        "NOMBRE": "PZA. LIBERTAD II",
+        "UBICACION": "LIBERTAD Y PARAGUAY",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "LIBERTAD Y PARAGUAY"
+    },
+    {
+        "X": "-58.3838801302764",
+        "Y": "-34.6014523058107",
+        "COMUNA": "1",
+        "NOMBRE": "BALLET NACIONAL",
+        "UBICACION": "PZA LAVALLE (LIBERTAD Y TUCUMAN)",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "LIBERTAD Y TUCUMAN"
+    },
+    {
+        "X": "-58.3815648149734",
+        "Y": "-34.6164880979196",
+        "COMUNA": "1",
+        "NOMBRE": "UADE",
+        "UBICACION": "PZTA. PASEO DE LA CIENCIA Y CULTURA ARABE",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "LIMA Y CHILE"
+    },
+    {
+        "X": "-58.389172243463",
+        "Y": "-34.60907878036",
+        "COMUNA": "1",
+        "NOMBRE": "DOS CONGRESOS",
+        "UBICACION": "PLAZA DE LOS DOS CONGRESOS",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "RIVADAVIA AV. Y CEVALLOS",
+        "null": [
+            " VIRREY"
+        ]
+    },
+    {
+        "X": "-58.3778090820198",
+        "Y": "-34.6082113013519",
+        "COMUNA": "1",
+        "NOMBRE": "PZA. ROBERTO ARLT I",
+        "UBICACION": "AV. RIVADAVIA Y ESMERALDA",
+        "LUGAR": "ESPACIOS VERDES",
+        "DIRECCION NORMALIZADA": "RIVADAVIA AV. Y ESMERALDA"
+    }
+]

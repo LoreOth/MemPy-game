@@ -1,0 +1,100 @@
+[
+    {
+        "Country Code": "AGO",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Angola"
+    },
+    {
+        "Country Code": "BEN",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Benin"
+    },
+    {
+        "Country Code": "BGD",
+        "Region": "Asia meridional",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Bangladesh"
+    },
+    {
+        "Country Code": "BOL",
+        "Region": "América Latina y el Caribe (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Bolivia"
+    },
+    {
+        "Country Code": "BTN",
+        "Region": "Asia meridional",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Bhután"
+    },
+    {
+        "Country Code": "CIV",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Côte d'Ivoire"
+    },
+    {
+        "Country Code": "CMR",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Camerún"
+    },
+    {
+        "Country Code": "COG",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Congo, República del"
+    },
+    {
+        "Country Code": "COM",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Comoras"
+    },
+    {
+        "Country Code": "CPV",
+        "Region": "África al sur del Sahara (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Cabo Verde"
+    },
+    {
+        "Country Code": "DJI",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Djibouti"
+    },
+    {
+        "Country Code": "DZA",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Argelia"
+    },
+    {
+        "Country Code": "EGY",
+        "Region": "Oriente Medio y Norte de África (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Egipto, República Árabe de"
+    },
+    {
+        "Country Code": "FSM",
+        "Region": "Asia oriental y el Pacífico (excluido altos ingresos)",
+        "Income_Group": "Países de ingreso mediano bajo",
+        "": "",
+        "Country Name": "Micronesia (Estados Federados de)"
+    }
+]

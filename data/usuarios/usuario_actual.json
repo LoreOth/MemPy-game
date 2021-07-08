@@ -1,0 +1,22 @@
+{
+    "Maxi": {
+        "Contraseña": "maxi",
+        "Edad": "19",
+        "Género": "Masculino",
+        "Configuración": {
+            "Dificultad": "Fácil",
+            "Nivel_estático": false,
+            "Nivel_inicial": 1,
+            "Nivel_actual": 1,
+            "Fichas": "Imágenes",
+            "Tema": "Topanga",
+            "Mensajes": {
+                "Victoria": "Ganaste!",
+                "Puntaje": "Tranqui, capaz la próxima!",
+                "Derrota": "Proba otra partida!"
+            },
+            "Record": 309,
+            "Recordar_usuarie": true
+        }
+    }
+}

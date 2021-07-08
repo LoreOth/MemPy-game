@@ -1,0 +1,4 @@
+src/__pycache__/
+src/auxiliares/__pycache__/
+src/ventanas/__pycache__/
+registro_eventos.py

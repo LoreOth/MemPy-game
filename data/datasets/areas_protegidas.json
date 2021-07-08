@@ -1,0 +1,86 @@
+[
+    {
+        "Entity": "Grenada",
+        "Code": "GRD",
+        "Year": "2017",
+        "Terrestrial protected areas": "9.777508173"
+    },
+    {
+        "Entity": "Russia",
+        "Code": "RUS",
+        "Year": "2017",
+        "Terrestrial protected areas": "9.726914815"
+    },
+    {
+        "Entity": "Canada",
+        "Code": "CAN",
+        "Year": "2017",
+        "Terrestrial protected areas": "9.685573936"
+    },
+    {
+        "Entity": "Switzerland",
+        "Code": "CHE",
+        "Year": "2017",
+        "Terrestrial protected areas": "9.665184261"
+    },
+    {
+        "Entity": "North Macedonia",
+        "Code": "MKD",
+        "Year": "2017",
+        "Terrestrial protected areas": "9.654065158"
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Code": "SLE",
+        "Year": "2017",
+        "Terrestrial protected areas": "9.386319626"
+    },
+    {
+        "Entity": "Belarus",
+        "Code": "BLR",
+        "Year": "2017",
+        "Terrestrial protected areas": "9.353493353"
+    },
+    {
+        "Entity": "Rwanda",
+        "Code": "RWA",
+        "Year": "2017",
+        "Terrestrial protected areas": "9.114089073"
+    },
+    {
+        "Entity": "British Virgin Islands",
+        "Code": "VGB",
+        "Year": "2017",
+        "Terrestrial protected areas": "9.108814682"
+    },
+    {
+        "Entity": "Europe & Central Asia (IDA & IBRD)",
+        "Code": "",
+        "Year": "2017",
+        "Terrestrial protected areas": "9.037497917"
+    },
+    {
+        "Entity": "Argentina",
+        "Code": "ARG",
+        "Year": "2017",
+        "Terrestrial protected areas": "8.808251416"
+    },
+    {
+        "Entity": "El Salvador",
+        "Code": "SLV",
+        "Year": "2017",
+        "Terrestrial protected areas": "8.776286672"
+    },
+    {
+        "Entity": "Guyana",
+        "Code": "GUY",
+        "Year": "2017",
+        "Terrestrial protected areas": "8.737486809"
+    },
+    {
+        "Entity": "Iran",
+        "Code": "IRN",
+        "Year": "2017",
+        "Terrestrial protected areas": "8.614132742"
+    }
+]

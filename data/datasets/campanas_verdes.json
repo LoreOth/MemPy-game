@@ -1,0 +1,114 @@
+[
+    {
+        "WKT": "POINT (-58.5252786960317 -34.637955460622)",
+        "direccion": "MADERO 118",
+        "barrio": "LINIERS",
+        "comuna": "9",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4761524472397 -34.6410457717493)",
+        "direccion": "REMEDIOS 3715",
+        "barrio": "PARQUE AVELLANEDA",
+        "comuna": "9",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4921506923092 -34.6538116845157)",
+        "direccion": "ALBARIÑO 1713",
+        "barrio": "MATADEROS",
+        "comuna": "9",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4745542114085 -34.685703412861)",
+        "direccion": "CAÑADA DE GOMEZ 4841",
+        "barrio": "VILLA RIACHUELO",
+        "comuna": "8",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4403391138862 -34.6579340636667)",
+        "direccion": "CASTAÑON 2810",
+        "barrio": "VILLA SOLDATI",
+        "comuna": "8",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4592163790071 -34.6148356812241)",
+        "direccion": "FRANKLIN 1712",
+        "barrio": "FLORES",
+        "comuna": "7",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4404748771992 -34.6356590743105)",
+        "direccion": "ASAMBLEA AV. 1110",
+        "barrio": "PARQUE CHACABUCO",
+        "comuna": "7",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4292166982869 -34.6238640756875)",
+        "direccion": "VALLE 114",
+        "barrio": "CABALLITO",
+        "comuna": "6",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4203838859871 -34.6252247608196)",
+        "direccion": "CASTRO 1038",
+        "barrio": "BOEDO",
+        "comuna": "5",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4248983764049 -34.6043865583916)",
+        "direccion": "SARMIENTO 4271",
+        "barrio": "ALMAGRO",
+        "comuna": "5",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4129892741202 -34.6451594110446)",
+        "direccion": "CACHI 163",
+        "barrio": "NUEVA POMPEYA",
+        "comuna": "4",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.3710489400259 -34.6327201904182)",
+        "direccion": "GUALEGUAY 1289",
+        "barrio": "BARRACAS",
+        "comuna": "4",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.3660000880264 -34.6378140094511)",
+        "direccion": "SUAREZ 971",
+        "barrio": "BOCA",
+        "comuna": "4",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    },
+    {
+        "WKT": "POINT (-58.4093186005858 -34.6350853164947)",
+        "direccion": "24 DE NOVIEMBRE 2051",
+        "barrio": "PARQUE PATRICIOS",
+        "comuna": "4",
+        "materiales": "Papel / Cartón / Plástico / Metal / Vidrio",
+        "mas_info": "Los materiales deben estar limpios y secos"
+    }
+]

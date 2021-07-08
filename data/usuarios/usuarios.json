@@ -1,0 +1,62 @@
+{
+    "Maxi": {
+        "Contraseña": "maxi",
+        "Edad": "19",
+        "Género": "Masculino",
+        "Configuración": {
+            "Dificultad": "Fácil",
+            "Nivel_estático": false,
+            "Nivel_inicial": 1,
+            "Nivel_actual": 1,
+            "Fichas": "Imágenes",
+            "Tema": "Topanga",
+            "Mensajes": {
+                "Victoria": "Ganaste!",
+                "Puntaje": "Tranqui, capaz la próxima!",
+                "Derrota": "Proba otra partida!"
+            },
+            "Record": 309,
+            "Recordar_usuarie": true
+        }
+    },
+    "Relderf": {
+        "Contraseña": "123456",
+        "Edad": "30",
+        "Género": "Masculino",
+        "Configuración": {
+            "Dificultad": "Normal",
+            "Nivel_estático": false,
+            "Nivel_inicial": 1,
+            "Nivel_actual": 1,
+            "Fichas": "Imágenes",
+            "Tema": "SandyBeach",
+            "Mensajes": {
+                "Victoria": "¡That's all, folks!",
+                "Puntaje": "¡Eso fue un nuevo record! :)",
+                "Derrota": "Perdiste :( mejor suerte la próxima"
+            },
+            "Record": 1328,
+            "Recordar_usuarie": false
+        }
+    },
+    "Lore": {
+        "Contraseña": "111111",
+        "Edad": "33",
+        "Género": "Femenino",
+        "Configuración": {
+            "Dificultad": "Fácil",
+            "Nivel_estático": false,
+            "Nivel_inicial": 1,
+            "Nivel_actual": 1,
+            "Fichas": "Imágenes",
+            "Tema": "BluePurple",
+            "Mensajes": {
+                "Victoria": "¡Felicitaciones, terminaste todos los niveles!",
+                "Puntaje": "¡Eso fue un nuevo record! :)",
+                "Derrota": "Perdiste :( mejor suerte la próxima"
+            },
+            "Record": 1101,
+            "Recordar_usuarie": true
+        }
+    }
+}

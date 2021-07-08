@@ -1,0 +1,187 @@
+long,lat,id,nombre,referencia,calle,altura,altura_2,cruce,detalle_ub,localidad,tel,mail,nom_mapa,barrio,comuna,codigo_postal,codigo_postal_argentino
+-58.4558054963087,-34.6425701242125,149,Santa Clara,,Zuviría,2631,,,,Buenos Aires,4632-1461,parroquiasantaclara@yahoo.com.ar,Santa Clara,Flores,Comuna 7,1406,C1406HSS
+-58.4937217368627,-34.6415241332146,109,San Francisco Solano,,Zelada,4771,,,,Buenos Aires,4683-3102,psolano@speedy.com.ar,San Francisco Solano,Villa Luro,Comuna 10,1407,C1407GXG
+-58.5025059347508,-34.5758758654834,8,Cristo Rey,,Zamudio,5551,,,,Buenos Aires,4572-5459,-,Cristo Rey,Villa Pueyrredon,Comuna 12,1419,C1419EHK
+-58.5021933521033,-34.5632418767532,119,San Juan Bautista el Precursor,,Rogelio Yrurtia,5800,,,,Buenos Aires,4543-8131,domibresci@yahoo.com.ar,San Juan Bautista el Precursor,Saavedra,Comuna 12,1431,C1431BJD
+-58.455374201532,-34.5621175116099,12,Inmaculada Concepción (B),,Vuelta de Obligado,2042,,,,Buenos Aires,4784-3596,inmaculadaconcepciodebelgrano@gmail.com,Inmaculada Concepción,Belgrano,Comuna 13,1428,C1428ADF
+-58.4382587177718,-34.5687585378688,97,San Benito Abad,,Villanueva,905,,,,Buenos Aires,4773-4605; 4771-0579,info@parroquiasanbenito.com.ar,San Benito Abad,Palermo,Comuna 14,1426,C1426BMA
+-58.4573213034378,-34.5673994320457,100,San Cayetano (B),,Vidal,1745,,,,Buenos Aires,4781-5886; 4784-6309,sancayetanob@hotmail.com,San Cayetano,Belgrano,Comuna 13,1426,C1426AMG
+-58.3892838513801,-34.6504548722298,89,Sagrado Corazón de Jesús,Basílica,Avda. Vélez Sarsfield,1351,,,,Buenos Aires,4301-0142,adrianaperuilh@yahoo.com.ar,Sagrado Corazón de Jesús,Barracas,Comuna 4,1285,C1285AAC
+-58.5224964640841,-34.6152203168048,139,San Rafael Arcángel,,José P. Varela,5272,,,,Buenos Aires,4568-4597,secretaria_parroquial@casadesanrafael.com.ar,San Rafael Arcángel,Villa Devoto,Comuna 11,1417,C1417EZH
+-58.4907481700933,-34.5605609195153,9,Dulcísimo Nombre de Jesús,,Valdenegro,3611,,,,Buenos Aires,4541-9796/0099,paterfabrizio@hotmail.com,Dulcísimo Nombre de Jesús,Saavedra,Comuna 12,1431,C1431GAU
+-58.4885330382318,-34.5728616162467,68,Nuestra Señora del Carmen (D),,Avda. Triunvirato,4940,,,,Buenos Aires,4521-1311; 4522-0142,-,Ntra. Sra. del Carmen,Villa Urquiza,Comuna 12,1431,C1431FCP
+-58.4101763761055,-34.6504252237086,42,Nuestra Señora de la Divina Providencia,,Traful,3535,,,,Buenos Aires,4911-9105,donorione@argentina.com,Ntra. Sra. de la Divina Providencia,Nueva Pompeya,Comuna 4,1437,C1437HME
+-58.3788946720035,-34.6177081241355,13,Inmaculada Concepción (C),,Tacuarí,0,,Avda. Independencia,,Buenos Aires,4300-5547/3944,-,Inmaculada Concepción,,,,
+-58.4635816139516,-34.6847637083445,20,Jesús Salvador,,Avda. Soldado de la Frontera,5184,,,,Buenos Aires,4605-3859,-,Jesús Salvador,Villa Lugano,Comuna 8,1439,C1439FPF
+-58.4117457799072,-34.5777359170758,152,Santa Elena,,Juan Francisco Seguí,3815,,,,Buenos Aires,4802-0638; 4807-1044,psantaelena@gmail.com,Santa Elena,Palermo,Comuna 14,1425,C1425ACG
+-58.5186051535756,-34.6573728406013,102,San Cosme y San Damián,,Ulrico Schmidl,7432,,,,Buenos Aires,4687-8368/7217,parroquiasancosme@ciudad.com.ar,San Cosme y San Damián,Mataderos,Comuna 9,1440,C1440CGV
+-58.4302494833399,-34.594651996471,41,Nuestra Señora de la Consolación,,Avda. Raúl Scalabrini Ortiz,1073,,,,Buenos Aires,4773-0716,consolación@fibertel.com.ar,Ntra. Sra. de la Consolación,Villa Crespo,Comuna 15,1414,C1414DNK
+-58.5239842280687,-34.6254661656929,50,Nuestra Señora de la Salud,,Marcos Sastre,6115,,,,Buenos Aires,4641-0045,-,Ntra. Sra. de la Salud,Versalles,Comuna 10,1408,C1408BAQ
+-58.4228500213584,-34.5806432922153,87,Sagrada Eucaristía,,Avda. Santa Fe,4310,,,,Buenos Aires,4777-4047,pseucaristia@yahoo.com.ar,Sagrada Eucaristía,Palermo,Comuna 14,1425,C1425BHS
+-58.3864576225273,-34.5958880719086,131,San Nicolás de Bari,Basílica,Avda. Santa Fe,1352,,,,Buenos Aires,4811-7755; 4813-3028,sannicolasdebari@fibertel.com.ar,San Nicolás de Bari,Retiro,Comuna 1,1059,C1059ABU
+-58.4039125080792,-34.5782606781781,128,San Martín de Tours,,San Martín de Tours,2949,,,,Buenos Aires,4802-9192/0162/4985,antimohernando@hotmail.com,San Martín de Tours,Palermo,Comuna 14,1425,C1425DNC
+-58.4827293592389,-34.5981956707405,123,San Juan María Vianney,,Avda. San Martín,4460,,,,Buenos Aires,4502-5220,arsvianney@yahoo.com.ar,San Juan María Vianney,Villa Del Parque,Comuna 11,1417,C1417DSR
+-58.3741210120304,-34.5958764848515,174,Santísimo Sacramento,Basílica,San Martín,1039,,,,Buenos Aires,4312-2314; 4311-0391,basilicasantisimosacramento@hotmail.com.ar,Santísimo Sacramento,Retiro,Comuna 1,1004,C1004AAU
+-58.474543218752,-34.5424199164524,113,San Isidro Labrador,,Avda. San Isidro,4630,,,,Buenos Aires,4702-6438,sanilabrador@ciudad.com.ar,San Isidro Labrador,Saavedra,Comuna 12,1429,C1429ADU
+-58.3785643491507,-34.6487628164852,27,Natividad de María Santísima,,San Antonio,555,,,,Buenos Aires,4139-4707,parroquianatividademaria@gmail.com,Natividad de María Santísima,Barracas,Comuna 4,1276,C1276ADE
+-58.3822917244279,-34.63398162491,153,Santa Elisa,,Salta,2290,,,,Buenos Aires,4305-3613,parroquiasantaelisa@fibertel.com,Santa Elisa,Barracas,Comuna 4,1137,C1137ACV
+-58.4166850007375,-34.6521318766427,75,Nuestra Señora del Rosario de Pompeya,Santuario,Avda. Saénz,0,,Esquiú,,Buenos Aires,4919-0772,pompeya@capuchinos.org.ar / froscardario@hotmail.com,Ntra. Sra. del Rosario de Pompeya,,,,
+-58.4834156176612,-34.5490721130987,82,Presentación del Señor,,Ruiz Huidobro,3521,3565.0,,,Buenos Aires,4542-7029,albemsf@yahoo.com.ar,Presentación del Señor,Saavedra,Comuna 12,1430,C1430CJC
+-58.457437529096,-34.5556737879379,35,Nuestra Señora de Fátima (B),,Franklin D. Roosevelt,2066,,,,Buenos Aires,4783-1903,-,Ntra. Sra. de Fátima,Belgrano,Comuna 13,1428,C1428BOD
+-58.4588939128909,-34.5983407774691,10,Encarnación del Señor,,Gral. Manuel A. Rodríguez,2444,,,,Buenos Aires,4582-4195,rafaelmarino2@yahoo.com.ar,Encarnación del Señor,Paternal,Comuna 15,1416,C1416CNB
+-58.3918078523847,-34.5992299555567,67,Nuestra Señora del Carmen (C),,Rodríguez Peña,840,,,,Buenos Aires,4812-2748,parrcarmen@fibertel.com.ar,Ntra. Sra. del Carmen,Recoleta,Comuna 2,1020,C1020ADR
+-58.4833836756939,-34.6421122578761,182,Virgen de los Desamparados,,José E. Rodó,4203,,,,Buenos Aires,4671-1255,pvdesamparados@hotmail.com,Virgen de los Desamparados,Parque Avellaneda,Comuna 9,1407,C1407HDK
+-58.4826089722865,-34.5690364077363,19,Jesús Misericordioso,Santuario,Dr. Pedro Ignacio Rivera,4591,,,,Buenos Aires,4521-3153,jesusmisericordioso@uolsinectis.com.ar,Jesús Misericordioso,Villa Urquiza,Comuna 12,1431,C1431BVA
+-58.4998762496843,-34.6373093298939,110,San Gabriel Arcángel,,Avda. Rivadavia,9625,,,,Buenos Aires,4635-1888; 4683-1482,fdiakonia@infovia.com.ar,San Gabriel Arcángel,Villa Luro,Comuna 10,1407,C1407DZF
+-58.4632597487249,-34.6291973237022,116,San José de Flores,Basílica,Avda. Rivadavia,6950,,,,Buenos Aires,4612-2629; 4637-1489,sanjosedeflores@aconectarse.com,San José de Flores,Flores,Comuna 7,1406,C1406GLZ
+-58.4549854433856,-34.6262019747235,186,Virgen Inmaculada de Lourdes,,Avda. Rivadavia,6280,,,,Buenos Aires,4631-9920; 633-5779,-,Virgen Inmaculada de Lourdes,Flores,Comuna 7,1406,C1406GLS
+-58.4340949842202,-34.6170475395503,33,Nuestra Señora de Caacupé,Santuario,Avda. Rivadavia,4879,,,,Buenos Aires,4901-1811; 4904-0648,parroquiacaacupe@fibertel.com.ar,Ntra. Sra. de Caacupé,Caballito,Comuna 6,1424,C1424CED
+-58.3721120158901,-34.6054020569556,45,Nuestra Señora de la Merced,Basílica,Reconquista,207,,,,Buenos Aires,4343-9623,-,Ntra. Sra. de la Merced,San Nicolas,Comuna 1,1003,C1003ABE
+-58.4764387381396,-34.5898593575278,169,Santa Teresa del Niño Jesús,,Quirós,2941,,,,Buenos Aires,4521-0422,parroquiasantateresita@yahoo.com.ar,Santa Teresa del Niño Jesús,Parque Chas,Comuna 15,1427,C1427DAG
+-58.3665340826585,-34.6424451625043,136,San Pedro (C),,Benito Quinquela Martín,1151,,,,Buenos Aires,4303-1839; 4301-3261; 4303-5858,sanpedrolaboca@yahoo.com.ar,San Pedro,Boca,Comuna 4,1167,C1167AFE
+-58.4723066868686,-34.6488328183189,176,Santos Sabino y Bonifacio,,Primera Junta,4095,,,,Buenos Aires,4671-7407,pquiasabinoybonifacio@gmail.com,Santos Sabino y Bonifacio,Parque Avellaneda,Comuna 9,1407,C1407HTI
+-58.4675006115829,-34.5810087087837,141,San Roque,,Plaza,1160,,,,Buenos Aires,4552-4468/1626,secretaria@sanroquercc.com.ar,San Roque,Villa Ortuzar,Comuna 15,1427,C1427CVJ
+-58.4980051407381,-34.5517729996957,161,Santa Margarita María Alacoque,,Pico,4950,,,,Buenos Aires,4541-5138,santamargarita16@gmail.com,Santa Margarita María Alacoque,Saavedra,Comuna 12,1430,C1430CYP
+-58.4133446508026,-34.6073040778071,180,Tránsito de la Santísima Virgen,,Tte. Gral. Juan Domingo Perón,3333,,,,Buenos Aires,4861-0573,transitodelavirgen@yahoo.com.ar,Tránsito de la Sma. Virgen,Balvanera,Comuna 3,1198,C1198AAK
+-58.492623905978,-34.6671940577592,69,Nuestra Señora del Carmen (F),,Avda. Eva Perón,6378,,,"Manzana 8, Casa 1",Buenos Aires,4601-0423,-,Ntra. Sra. del Carmen,Villa Lugano,Comuna 8,1439,C1439BTO
+-58.4744283312259,-34.6329697812712,47,Nuestra Señora de la Paz,,Pergamino,63,,,,Buenos Aires,4611-9463/68,colegiolapaz@ciudad.com.ar,Ntra. Sra. de la Paz,Floresta,Comuna 10,1406,C1406FHA
+-58.5121291332331,-34.5771098666242,3,Corazón de Jesús,,Avda. Gral Paz,5370,,,,Buenos Aires,4573-0385,cor_iesu@hotmail.com,Corazón de Jesús,Villa Pueyrredon,Comuna 12,1419,C1419FYQ
+-58.3878708475697,-34.6078121651836,48,Nuestra Señora de la Piedad,Basílica,Paraná,0,,Bartolomé Mitre,,Buenos Aires,4383-9765,-,Ntra. Sra. de la Piedad,,,,
+-58.4177317232262,-34.5894721792668,37,Nuestra Señora de Guadalupe,Basílica,Paraguay,3901,,,,Buenos Aires,4824-0270,parrguadal@hotmail.com,Ntra. Sra. de Guadalupe,Palermo,Comuna 14,1425,C1425BSC
+-58.3982073989892,-34.5986114924141,125,San Lucas,,Paraguay,2150,,,Plaza Dr. Bernardo Houssay,Buenos Aires,-,info@spu.com.ar,San Lucas,Recoleta,Comuna 2,1121,C1121ABH
+-58.3841476334422,-34.5982650343192,55,Nuestra Señora de las Victorias,,Paraguay,1204,,,,Buenos Aires,4816-4901; 5128-4902,lasvictorias@iplanmail.com.ar,Ntra. Sra. de las Victorias,Retiro,Comuna 1,1057,C1057AAT
+-58.3606897183963,-34.6173343952386,43,Nuestra Señora de la Esperanza,,Aimé Painé,1698,,,,Buenos Aires,4576-7654,pdelaesperanza@yahoo.com.ar,Ntra. Sra. de la Esperanza,Puerto Madero,Comuna 1,1107,C1107CFL
+-58.4731299900169,-34.6218901541969,51,Nuestra Señora de la Visitación,,Páez,2871,,,,Buenos Aires,4611-7768; 4613-9822,alejvignale@yahoo.com.ar,Ntra. Sra. de la Visitación,Flores,Comuna 7,1406,C1406FQW
+-58.4811323581863,-34.5759346166674,11,Espíritu Santo,,Pacheco,2059,,,,Buenos Aires,4521-7697/8366,inaquimed@ciudad.com.ar,Espíritu Santo,Villa Urquiza,Comuna 12,1431,C1431FIE
+-58.451738122773,-34.5932951076308,179,Todos los Santos y Ánimas,,Otero,145,,,,Buenos Aires,4854-4658,-,Todos los Santos y Ánimas,Chacarita,Comuna 15,1427,C1427BMC
+-58.3595362596345,-34.6367975656624,122,San Juan Evangelista,,Olavarría,486,,,,Buenos Aires,4302-2194; 4301-1155,cbareuther@donbosco.org.ar,San Juan Evangelista,Boca,Comuna 4,1162,C1162ABJ
+-58.5204429606332,-34.6053196524312,118,San Juan Bautista,,Nueva York,4717,,,,Buenos Aires,4501-8282,secretariasjb2003@yahoo.com.ar,San Juan Bautista,Villa Devoto,Comuna 11,1419,C1419HEG
+-58.3644355959009,-34.6279172043409,79,Nuestra Señora Madre de los Emigrantes,Santuario,Necochea,312,,,,Buenos Aires,4361-5063,revista_parroquial@yahoo.com.ar,Ntra. Sra. Madre de los Emigrantes,Boca,Comuna 4,1158,C1158ACB
+-58.4897459845169,-34.5912601735144,117,San José del Talar,Santuario,Navarro,2452,,,,Buenos Aires,4571-8808,secretaria@desatanudos.org.ar/virgendesatanudos@arnet.com.ar,San José del Talar,Agronomia,Comuna 15,1419,C1419HSH
+-58.4771314056276,-34.6760784726541,29,Niño Jesús,,Murguiondo,4055,,,,Buenos Aires,4601-0163,niño_jesus2003@yahoo.com,Niño Jesús,Villa Lugano,Comuna 8,1439,C1439FQW
+-58.5175197273848,-34.5954789542847,178,Soledad de María Santísima,,Avda. Gral. Mosconi,4119,,,,Buenos Aires,4501-3348,parroquiasoledaddemaria@gmail.com.ar,Soledad de María Santísima,Villa Devoto,Comuna 11,1419,C1419ERH
+-58.431431870173,-34.6501919660818,165,Santa María Madre del Pueblo,,Avda. Perito Moreno,0,,Avda. Cruz,,Buenos Aires,-,madredelpueblo@hotmail.com,Santa María Madre del Pueblo,,,,
+-58.4926246811107,-34.6772978437366,76,Nuestra Señora del Rosario del Milagro,,Montiel,0,,Crisóstomo Álvarez,,Buenos Aires,4602-7144,-,Ntra. Sra. del Rosario del Milagro,,,,
+-58.3751038057107,-34.6347563436583,159,Santa Lucía Virgen y Mártir,Santuario,Avda. Montes de Oca,550,,,,Buenos Aires,4362-8580,padretitin@gmail.com,Santa Lucía Virgen y Mártir,Barracas,Comuna 4,1270,C1270AAS
+-58.3725937513305,-34.6482108826978,95,San Antonio María Zaccaria,,Montes de Oca,1810,1822.0,,,Buenos Aires,4302-1822/0082,parroquiazaccaria@yahoo.com.ar,San Antonio María Zaccaria,Barracas,Comuna 4,1270,C1270ABS
+-58.4979708628143,-34.6692165731222,133,San Pantaleón,Santuario,Monte,6865,,,,Buenos Aires,4687-4178,sanpantaleon@ciudad.com.ar,San Pantaleón,Mataderos,Comuna 9,1440,C1440BMG
+-58.5068750891719,-34.631167241538,86,Sacratísimo Corazón de Jesús,,MoliŠre,856,,,,Buenos Aires,4568-1060,-,Sacratísimo Corazón de Jesús,Villa Luro,Comuna 10,1407,C1407BTP
+-58.4515373772182,-34.5702261915246,177,Señor del Milagro,,Moldes,1157,,,,Buenos Aires,4784-1140,-,Señor del Milagro,Colegiales,Comuna 13,1426,C1426ALK
+-58.3791607221118,-34.6073295033386,130,San Miguel Arcángel,,Bartolomé Mitre,896,,,,Buenos Aires,4345-4907,-,San Miguel Arcángel,San Nicolas,Comuna 1,1036,C1036AAP
+-58.4007353701428,-34.6083850643993,30,Nuestra Señora de Balvanera,,Bartolomé Mitre,2411,,,,Buenos Aires,4951-2218,gallegoares@fibertel.com.ar,Ntra. Sra. de Balvanera,Balvanera,Comuna 3,1039,C1039AAM
+-58.4686897415716,-34.6731144981632,23,María Madre de la Esperanza,,Miralla,3838,,,,Buenos Aires,4638-5225,-,María Madre de la Esperanza,Villa Lugano,Comuna 8,1439,C1439EQD
+-58.4386348590419,-34.6441097843833,142,San Saturnino y San Judas,,Miraflores,2080,,,,Buenos Aires,4921-9483,sjudastadeo@gmail.com,San Saturnino y San Judas,Parque Chacabuco,Comuna 7,1406,C1406COB
+-58.4048167943966,-34.6170658442753,25,María Madre del Redentor,,México,2745,,,,Buenos Aires,4957-4763,fmparroquial1051@yahoo.com,María Madre del Redentor,Balvanera,Comuna 3,1223,C1223ABE
+-58.4948520810274,-34.61981775522,5,Cristo Maestro,,Mercedes,1632,,,,Buenos Aires,4566-6762,cristomaestro@hotmail.com,Cristo Maestro,Floresta,Comuna 10,1407,C1407AIF
+-58.4209114773763,-34.6012706322618,163,Santa María de Betania,,Medrano,752,,,,Buenos Aires,4862-0825,-,Santa María de Betania,Almagro,Comuna 5,1179,C1179AAN
+-58.4034381685176,-34.6464759194411,184,Virgen de Luján,,Herminio Masantonio,2990,,,,Buenos Aires,4911-9090,-,Virgen de Luján,Parque Patricios,Comuna 4,1437,C1437HVB
+-58.4948060180752,-34.6008625446441,147,Santa Ana,,Pedro Lozano,3167,,,,Buenos Aires,4501-0723,psantaana.villadelparque@gmail.com,Santa Ana,Villa Del Parque,Comuna 11,1417,C1417EDK
+-58.4487498090111,-34.5656198792729,127,San Martín de Porres,,Virrey Loreto,2161,,,,Buenos Aires,4784-9207,san_martin@fibertel.com.ar,San Martín de Porres,Belgrano,Comuna 13,1426,C1426DXM
+-58.5017550426851,-34.5844190710203,83,Purísimo Corazón de María,,Carlos Antonio López,2781,,,,Buenos Aires,4571-6195,purisimo-corazon-de-maria@live.com.ar,Purísimo Corazón de María,Villa Pueyrredon,Comuna 12,1419,C1419ETM
+-58.4141183777098,-34.615827706048,146,Santa Amelia,,Virrey Liniers,428,,,,Buenos Aires,4864-1522,-,Santa Amelia,Almagro,Comuna 5,1174,C1174ACJ
+-58.5070432379184,-34.5998243110178,94,San Antonio de Padua (D),Basílica,Avda. Lincoln,3751,,,,Buenos Aires,4501-1066,basilica_sanantonio@yahoo.com.ar,San Antonio de Padua,Villa Devoto,Comuna 11,1419,C1419IFC
+-58.3997535966722,-34.5854521494516,90,San Agustín,,Avda. Las Heras,2560,,,,Buenos Aires,4802-5942; 4801-0729,psaba@sanagustin.org,San Agustín,Recoleta,Comuna 2,1425,C1425ASP
+-58.4005516286989,-34.592845683586,173,Santísimo Redentor,,Larrea,1252,,,,Buenos Aires,4824-0895,pquiasantisimoredentor@fibertel.com.ar,Santísimo Redentor,Recoleta,Comuna 2,1117,C1117ABJ
+-58.490893681846,-34.6614501615722,46,Nuestra Señora de la Misericordia,,Avda. Larrazábal,2394,,,,Buenos Aires,4635-0605/7182,parroquia@cmisericordia.edu.ar,Ntra. Sra. de la Misericordia,Mataderos,Comuna 9,1440,C1440CVP
+-58.4382060551275,-34.6629595384995,7,Cristo Obrero y San Blas,,Lafuente,3242,,,,Buenos Aires,4918-2290,buenosaires@murialdo.org,Cristo Obrero y San Blas,Villa Soldati,Comuna 8,1437,C1437BVO
+-58.4270679855924,-34.6266018532659,115,San José de Calasanz,,Avda. la Plata,955,,,,Buenos Aires,4922-0579,parroquia@colegiocalasanz.edu.ar,San José de Calasanz,Caballito,Comuna 6,1235,C1235ABG
+-58.4283741007299,-34.6180801471327,162,Santa María,,Avda. la Plata,286,,,,Buenos Aires,4983-7944,comunicacionsantamaria@gmail.com,Santa María,Almagro,Comuna 5,1184,C1184AAP
+-58.4231404196222,-34.6406952707157,18,Jesús de Nazaret,,Avda. La Plata,2258,,,,Buenos Aires,4922-3332,nazaret1832@gmail.com,Jesús de Nazaret,Nueva Pompeya,Comuna 4,1437,C1437DHN
+-58.3919202777975,-34.5868366949993,73,Nuestra Señora del Pilar,Basílica,Junín,1904,,,,Buenos Aires,4803-6793,iglesiadelpilar@arnet.com.ar,Ntra. Sra. del Pilar,Recoleta,Comuna 2,1113,C1113AAX
+-58.3798654570521,-34.5930440450717,77,Nuestra Señora del Socorro,Basílica,Juncal,888,,,,Buenos Aires,4393-1423/4079,parroco@fibertel.com.ar / pdelsocorro@fibertel.com.ar,Ntra. Sra. del Socorro,Retiro,Comuna 1,1062,C1062ABF
+-58.408271897406,-34.5858828261714,56,Nuestra Señora de Loreto,,Juncal,3115,,,,Buenos Aires,4804-4873,parroquialoreto@arnet.com.ar,Ntra. Sra. de Loreto,Palermo,Comuna 14,1425,C1425AYO
+-58.4022187286203,-34.6245378573799,103,San Cristóbal,,Avda. Jujuy,1251,,,,Buenos Aires,4941-2760,parroquia@psancristobal.com.ar,San Cristóbal,San Cristobal,Comuna 3,1247,C1247ABA
+-58.5149297469034,-34.6293255554707,72,Nuestra Señora del Perpetuo Socorro,,Irigoyen,1185,,,,Buenos Aires,4567-2535,pquiaperpetuosocorro@yahoo.com.ar,Ntra. Sra. del Perpetuo Socorro,Versalles,Comuna 10,1407,C1407CAY
+-58.4449334632991,-34.6001589883366,98,San Bernardo,,Gurruchaga,167,171.0,,,Buenos Aires,4854-0789,-,San Bernardo,Villa Crespo,Comuna 15,1414,C1414DHC
+-58.4359560112546,-34.59341941215,150,Santa Clara de Asís,,Gurruchaga,1012,,,,Buenos Aires,4773-0659,pstaclaradeasis@hotmail.com,Santa Clara de Asís,Villa Crespo,Comuna 15,1414,C1414DHV
+-58.4125484947554,-34.5906640324232,112,San Ildefonso,,Guise,1939,,,,Buenos Aires,4823-0826,misaatc@arnet.com.ar,San Ildefonso,Palermo,Comuna 14,1425,C1425DPG
+-58.4674925491801,-34.5411855497671,62,Nuestra Señora de Luján del Buen Viaje,,Grecia,4328,,,,Buenos Aires,4702-4473,buenviaje@argentina.com,Ntra. Sra. de Luján del Buen Viaje,Nu\u00f1ez,Comuna 13,1429,C1429BEH
+-58.4509478600872,-34.6284316082677,24,María Madre de la Iglesia,,Avda. Pedro Goyena,1628,,,,Buenos Aires,4432-6913,-,María Madre de la Iglesia,Caballito,Comuna 6,1406,C1406GWS
+-58.4231273331176,-34.5945055739129,158,Santa Lucía (B),,Gascón,1372,,,,Buenos Aires,4862-7778,santalucia11@gmail.com,Santa Lucía,Palermo,Comuna 14,1181,C1181ACZ
+-58.4655167330721,-34.6164153306687,1,Asunción de la Santísima Virgen,,Avda. Gaona,2798,,,,Buenos Aires,4581-0471,padrejose@ciudad.com.ar / padreromero@hotmail.com,Asunción de la Santísima Virgen,Flores,Comuna 7,1416,C1416DSP
+-58.4527495949899,-34.6111515411293,32,Nuestra Señora de Buenos Aires,Basílica,Avda. Gaona,1730,,,,Buenos Aires,4581-0440; 4584-4197,parroquiabuenosaires@fibertel.com.ar,Ntra. Sra. de Buenos Aires,Caballito,Comuna 6,1416,C1416DRS
+-58.467626439389,-34.5631780830447,59,Nuestra Señora de Lourdes,,Cap. Gral. Ramón Freire,2490,,,,Buenos Aires,4541-0642,lourdes@orue.com.ar / lourdes_alois@ciudad.com.ar,Ntra. Sra. de Lourdes,Belgrano,Comuna 13,1428,C1428CZJ
+-58.477616535377,-34.6898944782778,175,Santo Cristo,,Avda. F. Fernández de la Cruz,6820,,,,Buenos Aires,4601-0137,parroquiasantocristo@gmail.com,Santo Cristo,Villa Riachuelo,Comuna 8,1439,C1439CPU
+-58.4366887583232,-34.6318322876452,156,Santa Isabel de Hungría,,Estrada,823,,,,Buenos Aires,4923-3101,-,Santa Isabel de Hungría,Parque Chacabuco,Comuna 7,1424,C1424CMQ
+-58.4705759909095,-34.5718229296882,134,San Patricio,,Estomba,0,,Echeverría,,Buenos Aires,4552-6780; 4551-2513,consultas@sanpatricio.org.ar,San Patricio,,,,
+-58.4668468849729,-34.5862634460682,106,San Fermín,,Estomba,466,,,,Buenos Aires,4552-8978,psanfermin@yahoo.com.ar,San Fermín,Villa Ortuzar,Comuna 15,1427,C1427COL
+-58.5233536384699,-34.6484433874588,104,San Enrique,,Estero Bellaco,6943,,,,Buenos Aires,4644-0880,-,San Enrique,Liniers,Comuna 9,1408,C1408EKA
+-58.4093135522764,-34.6214289462141,151,Santa Cruz,,Estados Unidos,0,,Gral. Urquiza,,Buenos Aires,4931-1317; 4957-2966,casanazaret@speedy.com.ar / iglesiasantacruz@gmail.com,Santa Cruz,,,,
+-58.4703720566106,-34.6642567601367,121,San Juan Diego Cuauhtlatoatzin,,Avda. Escalada,2858,,,,Buenos Aires,3533-5553,cmsanjuandiego@hotmail.com,San Juan Diego Cuauhtlatoatzin,Villa Lugano,Comuna 8,1439,C1439FHN
+-58.4763178612849,-34.6595691076042,22,Madre de Dios,,Avda. Escalada,2350,,,,Buenos Aires,4635-0395,parroquiamadrededios@yahoo.com.ar,Madre de Dios,Parque Avellaneda,Comuna 9,1439,C1439FHD
+-58.4907363463098,-34.6481959934319,166,Santa María Teresa Goretti,,Avda. Escalada,1150,,,,Buenos Aires,4635-4012; 3969-6943,parroquiasantamariagoretti@yahoo.com,Santa María Teresa Goretti,Parque Avellaneda,Comuna 9,1407,C1407LDX
+-58.3909386202511,-34.6310515381804,34,Nuestra Señora de Czestochowa,,Avda. Entre Ríos,1951,,,,Buenos Aires,4306-1587,padrepanchoczestochowa@hotmail.com,Ntra. Sra. de Czestochowa,Parque Patricios,Comuna 4,1133,C1133AAH
+-58.4599023199502,-34.5737243276749,92,San Ambrosio,,Avda. Elcano,3253,,,,Buenos Aires,4552-2043,contacto@sanambrosio.com.ar,San Ambrosio,Colegiales,Comuna 13,1426,C1426EJD
+-58.4458827092048,-34.5568230099069,53,Nuestra Señora de las Mercedes,,Echeverría,1395,,,,Buenos Aires,4784-8011,nsm@nsmercedes.com.ar,Ntra. Sra. de las Mercedes,Belgrano,Comuna 13,1428,C1428DQO
+-58.4470489259028,-34.5909370093329,85,Resurrección del Señor,,Dorrego,892,,,,Buenos Aires,4854-7515,parroquiaresu@yahoo.com.ar,Resurrección del Señor,Chacarita,Comuna 15,1414,C1414CKQ
+-58.4400254008666,-34.5783560388014,120,San Juan Bosco,,Avda. Dorrego,2106,,,,Buenos Aires,4771-9873/74; 4772-4343,-,San Juan Bosco,Palermo,Comuna 14,1414,C1414CLQ
+-58.4284140684415,-34.6356476927497,124,San Lorenzo Mártir,,Avelino Díaz,576,,,,Buenos Aires,4921-3625,jbr@sinectis.com.ar,San Lorenzo Mártir,Parque Chacabuco,Comuna 7,1424,C1424CUF
+-58.4354070101092,-34.6089330672334,57,Nuestra Señora de los Dolores,,Avda. Díaz Vélez,4850,4860.0,,,Buenos Aires,4982-0492,mmssccbaires@gmail.com,Ntra. Sra. de los Dolores,Caballito,Comuna 6,1405,C1405DCQ
+-58.4233734029887,-34.6084257695466,38,Nuestra Señora de Itatí,,Avda. Díaz Vélez,4019,,,,Buenos Aires,4982-9179,-,Ntra. Sra. de Itatí,Almagro,Comuna 5,1200,C1200AAH
+-58.4198752781103,-34.575507773196,143,San Tarsicio,,Demaría,4430,,,,Buenos Aires,4773-4763,-,San Tarsicio,Palermo,Comuna 14,1425,C1425AEB
+-58.5281141217648,-34.6378055925625,101,San Cayetano (D),Santuario,Cuzco,150,,,,Buenos Aires,4641-0583/1572,santuario@sancayetano.org.ar,San Cayetano,Liniers,Comuna 9,1408,C1408BLD
+-58.4462157387039,-34.6365873812313,44,Nuestra Señora de la Medalla Milagrosa,Santuario,Curapaligüe,1185,,,,Buenos Aires,4921-2165,secretaria_medallamilagrosa@yahoo.com.ar,Ntra. Sra. de la Medalla Milagrosa,Parque Chacabuco,Comuna 7,1406,C1406DAL
+-58.5095253923345,-34.594110929165,14,Inmaculada Concepción (D),,José Cubas,3599,,,,Buenos Aires,4503-0192,pmolero@arnet.com.ar,Inmaculada Concepción,Villa Devoto,Comuna 11,1419,C1419GNC
+-58.3969141919346,-34.6562588987207,183,Virgen de los Milagros de Caacupé,,Osvaldo Cruz,3470,,,,Buenos Aires,4302-3643,-,Virgen de los Milagros de Caacupé,Barracas,Comuna 4,1437,C1437IFN
+-58.4136534418997,-34.5977534910943,78,Nuestra Señora del Valle,,Avda. Córdoba,3329,,,,Buenos Aires,4963-1454; 4963-8742,secretaria@nsdelvalle.org.ar,Ntra. Sra. del Valle,Recoleta,Comuna 2,1187,C1187AAH
+-58.3812863314024,-34.6244556361067,16,Inmaculado Corazón de María,,Constitución,1077,,,,Buenos Aires,4116-8611,constitucion@claretianos.org.ar,Inmaculado Corazón de María,Constitucion,Comuna 1,1151,C1151AAA
+-58.4289675661654,-34.6576435362264,52,Nuestra Señora de las Gracias,,Cóndor,2150,,,,Buenos Aires,4918-0196/0196,curiamsa@sicoar.org.ar/fr_ricardo@hotmail.com,Ntra. Sra. de las Gracias,Villa Soldati,Comuna 8,1437,C1437FJP
+-58.4154954245723,-34.6368482669253,96,San Bartolomé Apóstol,,Avda. Chiclana,3659,,,,Buenos Aires,4921-4440,-,San Bartolomé Apóstol,Boedo,Comuna 5,1262,C1262AAA
+-58.5012814188971,-34.6281465888412,140,San Ramón Nonato,Santuario,Cervantes,1150,,,,Buenos Aires,4567-8336; 4648-1160,sanramonnonato@hotmail.com,San Ramón Nonato,Velez Sarsfield,Comuna 10,1407,C1407BGT
+-58.4947526206406,-34.5764096308233,26,María Reina,,Ceretti,2622,,,,Buenos Aires,4572-8422,-,María Reina,Villa Urquiza,Comuna 12,1431,C1431ELF
+-58.5186295070481,-34.6536599003816,61,Nuestra Señora de Luján de los Patriotas,,Avda. Emilio Castro,7156,,,,Buenos Aires,4687-8645,-,Ntra. Sra. de Luján de los Patriotas,Mataderos,Comuna 9,1408,C1408IGV
+-58.5116655325369,-34.6500113323229,181,Tránsito de San José,,Avda. Emilio Castro,6391,,,,Buenos Aires,4642-4731,transitodesanjose@gmail.com,Tránsito de San José,Liniers,Comuna 9,1408,C1408IGA
+-58.4017076237427,-34.6366101748615,93,San Antonio de Padua (C),Santuario,Avda. Caseros,2780,,,,Buenos Aires,4911-1073,santuariosanantonio@fibertel.com.ar,San Antonio de Padua,Parque Patricios,Comuna 4,1264,C1264AAU
+-58.493045063199,-34.5877270287052,160,Santa Magdalena Sofía Barat,,Avda. Salvador María del Carril,2458,,,,Buenos Aires,4571-3829,pquiasmsb@arnet.com.ar,Santa Magdalena Sofía Barat,Agronomia,Comuna 15,1419,C1419GZQ
+-58.492943628081,-34.6337468923918,65,Nuestra Señora del Buen Consejo,,Cardoso,242,,,,Buenos Aires,4671-4787,-,Ntra. Sra. del Buen Consejo,Velez Sarsfield,Comuna 10,1407,C1407BBD
+-58.5300399289606,-34.6159513405532,15,Inmaculada Virgen de Fátima,,José Luis Cantilo,5656,,,,Buenos Aires,4642-6667,vinmfatima@gmail.com,Inmaculada Virgen de Fátima,Villa Real,Comuna 10,1419,C1419HPF
+-58.4310386589881,-34.5747317875302,145,Santa Adela,,Avda. Luis María Campos,195,,,,Buenos Aires,4772-4833,parroquiasantadela@yahoo.com.ar,Santa Adela,Palermo,Comuna 14,1425,C1425GEB
+-58.4873586381313,-34.6157565657669,167,Santa Rita de Casia,Santuario,Camarones,3443,,,,Buenos Aires,4566-3466,secretaria@santuariosantarita.org.ar,Santa Rita de Casia,Villa Santa Rita,Comuna 11,1407,C1407FMC
+-58.4409357498592,-34.5717842246852,60,Nuestra Señora de Luján (Castrense),,Avda. Cabildo,425,,,,Buenos Aires,4771-1696,lemartinoia@ciudad.com.ar,Ntra. Sra. de Luján,Palermo,Comuna 14,1426,C1426AAE
+-58.4681963199149,-34.5492577395294,172,Santísima Trinidad,,Avda. Cabildo,3680,,,,Buenos Aires,4702-1030,centrotrinitario@hotmail.com / guimelgil@gmail.com,Santísima Trinidad,Nu\u00f1ez,Comuna 13,1429,C1429AAU
+-58.5110180242534,-34.5867427349977,17,Jesús de la Buena Esperanza,,José León Cabezón,3350,,,,Buenos Aires,4571-1212,-,Jesús de la Buena Esperanza,Villa Devoto,Comuna 11,1419,C1419FCP
+-58.4976998964355,-34.5701639007237,31,Nuestra Señora de Belén,,Burela,3243,,,,Buenos Aires,4542-9045,-,Ntra. Sra. de Belén,Villa Urquiza,Comuna 12,1431,C1431EHQ
+-58.3766145787144,-34.6266942755934,148,Santa Catalina de Alejandría,,Brasil,850,,,,Buenos Aires,4300-2194/1731; 4307-8211/9843,casasantacatalina@gmail.com/parroquiasantacatalina@gmail.com,Santa Catalina de Alejandría,Constitucion,Comuna 1,1154,C1154AAN
+-58.5201947965903,-34.6427605712652,54,Nuestra Señora de las Nieves,,Ventura Bosch,6662,,,,Buenos Aires,4641-4171/2771/2748/2350,parroquia@lasnieves.edu.ar,Ntra. Sra. de las Nieves,Liniers,Comuna 9,1408,C1408ECH
+-58.4274303690272,-34.5871603135148,108,San Francisco Javier,,Jorge Luis Borges,1855,,,,Buenos Aires,4831-6706/8457,-,San Francisco Javier,Palermo,Comuna 14,1414,C1414DGE
+-58.4345187896456,-34.581147707996,74,Nuestra Señora del Rosario,,Bonpland,1987,,,,Buenos Aires,4771-0861,parroquiadelrosario@fibertel.com.arg,Ntra. Sra. del Rosario,Palermo,Comuna 14,1414,C1414CMY
+-58.3736481902289,-34.6105523111428,111,San Ignacio de Loyola,,Bolívar,225,,,,Buenos Aires,4331-2458; 4331-7863,iglesiasanignacio@ciudad.com.ar,San Ignacio de Loyola,Monserrat,Comuna 1,1066,C1066AAE
+-58.4696449901925,-34.6414278021383,63,Nuestra Señora de Luján Porteño,,Francisco Bilbao,3474,,,,Buenos Aires,4612-6710,lujanporteño@gmail.com,Ntra. Sra. de Luján Porteño,Parque Avellaneda,Comuna 9,1406,C1406FGR
+-58.4789529324529,-34.6498362979876,58,Nuestra Señora de los Remedios,,Francisco Bilbao,4310,,,,Buenos Aires,4682-2611/3595; 4683-9101,remedios@advancddl.com.ar,Ntra. Sra. de los Remedios,Parque Avellaneda,Comuna 9,1407,C1407HPB
+-58.4578521932838,-34.6335955159508,154,Santa Francisca Javier Cabrini,,Francisco Bilbao,2241,,,,Buenos Aires,4632-2387,-,Santa Francisca Javier Cabrini,Flores,Comuna 7,1406,C1406FFS
+-58.5092266271613,-34.6195270438198,135,San Pedro Apóstol,,Bermúdez,0,,Arregui,,Buenos Aires,4567-4596,-,San Pedro Apóstol,,,,
+-58.397718766864,-34.6144009246356,168,Santa Rosa de Lima,Basílica,Avda. Belgrano,2216,,,,Buenos Aires,4308-0504/5313,parroquiasantarosa@fibertel.com.ar,Santa Rosa de Lima,Balvanera,Comuna 3,1094,C1094AAR
+-58.3875387778233,-34.6137191630215,49,Nuestra Señora de la Rábida,,Avda. Belgrano,1502,,,,Buenos Aires,5218-7757/58,info@parroquialarabida.com.ar,Ntra. Sra. de la Rábida,Monserrat,Comuna 1,1093,C1093AAQ
+-58.3825179926987,-34.613003519529,64,Nuestra Señora de Montserrat,,Avda. Belgrano,1151,,,,Buenos Aires,4383-3096,p.e.montserrat@hotmail.com,Ntra. Sra. de Montserrat,Monserrat,Comuna 1,1092,C1092AAL
+-58.4984141448873,-34.6447841847772,138,San Pío X,,Basualdo,750,,,,Buenos Aires,4683-0702/3023,parroquiasanpiox@speedy.org.ar,San Pío X,Mataderos,Comuna 9,1440,C1440DNH
+-58.4826922564617,-34.5852985513644,91,San Alfonso María de Ligorio,,Barzana,1515,,,,Buenos Aires,4521-6123,pquiasanalfonso@yahoo.com.ar,San Alfonso María de Ligorio,Parque Chas,Comuna 15,1431,C1431EAC
+-58.4893367632948,-34.5548163621811,88,Sagrada Familia,,Avda. Dr. Ricardo Balbín,4127,,,,Buenos Aires,4115-5390,pasagradafamilia@gmail.com,Sagrada Familia,Saavedra,Comuna 12,1430,C1430AAM
+-58.5038594499309,-34.6115284210553,126,San Luis Gonzaga,,Baigorria,4260,,,,Buenos Aires,4567-6861,parroquia_sanluisgonzaga@yahoo.com.ar,San Luis Gonzaga,Monte Castro,Comuna 10,1417,C1417FSF
+-58.4819244366132,-34.6294897230076,40,Nuestra Señora de la Candelaria,,Bahía Blanca,363,,,,Buenos Aires,4636-1825,pquiacandelaria@uol.com.ar,Ntra. Sra. de la Candelaria,Floresta,Comuna 10,1407,C1407ABE
+-58.3963208930198,-34.5962023327914,81,Patrocinio de San José,,Ayacucho,1072,,,,Buenos Aires,4823-4848; 4821-3856,-,Patrocinio de San José,Recoleta,Comuna 2,1111,C1111AAF
+-58.4686472404677,-34.6252630166408,84,Reina de los Apóstoles,,Avda. Avellaneda,2679,,,,Buenos Aires,4612-7164,-,Reina de los Apóstoles,Flores,Comuna 7,1406,C1406FYL
+-58.4667620612661,-34.5939058062571,155,Santa Inés Virgen y Mártir,,Ávalos,250,,,,Buenos Aires,4553-1456,pbro.gabrielbautista@gmail.com,Santa Inés Virgen y Mártir,Paternal,Comuna 15,1427,C1427AWD
+-58.4770081574681,-34.6081942194687,171,Santísima Cruz,,Gral. José G. Artigas,2064,,,,Buenos Aires,4581-3281,parroquiasantisimacruz@ciudad.com.ar,Santísima Cruz,Villa Gral. Mitre,Comuna 11,1416,C1416AKX
+-58.5045780190484,-34.6517773546898,144,San Vicente de Paul,,Manuel Artigas,6150,,,,Buenos Aires,4635-5178,-,San Vicente de Paul,Mataderos,Comuna 9,1440,C1440BRV
+-58.3806173724751,-34.5913179965184,21,Madre Admirable,,Arroyo,931,,,,Buenos Aires,4393-3887,infoparroquia@madreadmirable.com.ar,Madre Admirable,Retiro,Comuna 1,1007,C1007AAC
+-58.4468653918443,-34.5841858856254,28,Navidad del Señor,,Concepción Arenal,3545,,,,Buenos Aires,4553-1805,navidaddelsenor@gmail.com,Navidad del Señor,Chacarita,Comuna 15,1427,C1427EKC
+-58.4422355363407,-34.6142414604046,2,Buen Pastor,,Dr. Juan Aranguren,691,693.0,,,Buenos Aires,4904-0590,parroquiabuenpastor180@gmail.com,Buen Pastor,Caballito,Comuna 6,1405,C1405CRM
+-58.5063745677086,-34.6624102426812,105,San Felipe Neri,,Andalgalá,2284,,,,Buenos Aires,4687-9653,rjsirera@gmail.com,San Felip e Neri,Mataderos,Comuna 9,1440,C1440ENT
+-58.4022896704809,-34.5958484444431,66,Nuestra Señora del Carmelo,,Marcelo T. de Alvear,2465,,,,Buenos Aires,4821-5954,parroquiabsas@ocdargentina.com.ar,Ntra. Sra. del Carmelo,Recoleta,Comuna 2,1122,C1122AAM
+-58.4646937638363,-34.6038244174979,71,Nuestra Señora del Consuelo,,Avda. Donato Álvarez,2050,,,,Buenos Aires,4581-2117,pqdelconsuelo@gmail.compqdelconsuelo@gmail.com / secretariadelconsuelo@gmail.com,Ntra. Sra. del Consuelo,Villa Gral. Mitre,Comuna 11,1416,C1416BTW
+-58.4534392856327,-34.5795057385712,132,San Pablo Apóstol,,Álvarez Thomas,799,,,,Buenos Aires,4553-9567,-,San Pablo Apóstol,Colegiales,Comuna 13,1427,C1427CCH
+-58.4878343729241,-34.580451590406,39,Nuestra Señora de la Anunciación,,Altolaguirre,2041,,,,Buenos Aires,4523-6680,anunciacion@arnet.com.ar,Ntra. Sra. de la Anunciación,Villa Urquiza,Comuna 12,1431,C1431ECM
+-58.4449993355598,-34.6240185540552,157,Santa Julia,,Juan B. Alberdi,0,,Víctor Martínez,,Buenos Aires,4431-0052/3124,psantajulia@hotmail.com,Santa Julia,,,,
+-58.5084168273935,-34.6408772626972,4,Corpus Domini,,Albariño,256,,,,Buenos Aires,4682-3803,-,Corpus Domini,Villa Luro,Comuna 10,1408,C1408HOF
+-58.4432523695246,-34.6651902645406,107,San Francisco de Asís,,Mariano Acosta,3501,,,,Buenos Aires,4919-7533,pcinieri@ciudad.com.ar,San Francisco de Asís,Villa Soldati,Comuna 8,1437,C1437CEC
+-58.4486361020332,-34.6609321511958,36,Nuestra Señora de Fátima (F),Santuario,Mariano Acosta,2979,,,,Buenos Aires,4918-5168,psantuariofatima@gmail.com/rpardina@misacores.org,Ntra. Sra. de Fátima,Villa Soldati,Comuna 8,1437,C1437CDE
+-58.4100307279473,-34.6305107343905,129,San Miguel,,24 de Noviembre,1651,,,,Buenos Aires,4911-4006,pquiasanmiguel@fibertel.com.ar,San Miguel,Parque Patricios,Comuna 4,1242,C1242AAI
+137.419509216687,-89.9982004820118,70,Nuestra Señora del Carmen (Isla Martín García),,Isla Martín García,0,,,,Buenos Aires,-,raulusuaia@hotmail.com,Ntra. Sra. del Carmen,,,,
+-58.4229986697066,-34.6149364820451,99,San Carlos Borromeo,Basílica,Hipólito Irigoyen,4000,,,,Buenos Aires,4981-4741,-,San Carlos Borromeo,,,,
+-58.4884755837548,-34.6770195133838,114,San José Benito Cottolengo,,Cte. Luis Piedrabuena,3848,,,,Buenos Aires,4601-2723; 4602-1819,mateosg@yahoo.com.ar,San José Benito Cottolengo,,,,
+-58.3705443605807,-34.6208520568413,137,San Pedro González Telmo,,Humberto 1º,340,,,,Buenos Aires,4361-1168,-,San Pedro González Telmo,,,,
+-58.4793766983331,-34.5594954789598,164,Santa María de los Ángeles,,Rómulo S. Naón,3250,,,,Buenos Aires,4541-9300,luiscoscia09@speedy.com.ar,Santa María de los Ángeles,,,,
+-58.4535320939767,-34.5481500496953,170,Santiago Apóstol,,Tte. Gral. Pablo Riccheri,3189,,,,Buenos Aires,4782-8204,parroquiasantiagoapostol@fibertel.com.ar,Santiago Apóstol,Belgrano,Comuna 13,,
+-58.4572278876469,-34.6555744290642,185,Virgen Inmaculada,,"Pasaje ""C""",0,,Martínez Castro s/n,"""Barrio Dr. Ramón Carrillo""",Buenos Aires,5648-8709/8710,pedrobaya@yahoo.com,Virgen Inmaculada,,,,
+-58.4115219376787,-34.6398215233288,80,Patrocinio de la Virgen,,Uspallata,3480,,,,Buenos Aires,4909-4158,-,Patrocinio de la Virgen,,,,
+-58.3882496703921,-34.5764102563997,6,Cristo Obrero,,Avda. Rafael Castillo,0,,Calle 14,,Buenos Aires,4116-4307,cristobrero@hotmail.com,Cristo Obrero,,,,
